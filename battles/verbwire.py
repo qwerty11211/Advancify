@@ -1,6 +1,6 @@
 import requests
 
-token=""
+token="ADD YOUR TOKEN"
 contractAddress=""
 testnet='bsc-testnet'
 
